@@ -3,3 +3,4 @@
 .empty
 *.csv
 *.pyc
+__pycache__/
