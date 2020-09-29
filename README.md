@@ -26,8 +26,8 @@ Run examples:
 
 ```
 $ cd <Project-DIR>
-$ source activate DSRegressor
-$ python -m Examples.points
+$ source activate WEVREG
+$ python -m experiments.feature_selection
 ```
 
 
